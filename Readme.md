@@ -15,3 +15,5 @@ In rapport, will be added:
 
     - Any embedded content and graphics needed in the rapport    
     - The rapport and it's components
+
+Every contributor has it's own branch, ideally you should try to merge everytime you finish modifying the content.
