@@ -5,8 +5,11 @@
 
 
   |
+ 
   |
+ 
   |
+  
   V
 
 
@@ -31,8 +34,11 @@
  4. Keep the _link labels_ __conistent__, as they condition our capacity to make efficient searches and sorts in the graph!
  
   |
+  
   |
+  
   |
+  
   V
 
 # ITERATE
