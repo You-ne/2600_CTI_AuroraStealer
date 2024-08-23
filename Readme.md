@@ -2,7 +2,7 @@ Repo of the investigation aboout Aurora Stealer.
 
 In __Tools & Methodo__ you will find:  
  - The search __Method__
- - Some API keys (some are still valid, some not)
+ - Some API keys (not anymore)
 
 
 In __Results__, you will find:
